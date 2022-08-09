@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Skwinnik</h1>
 <h3 align="center">A fullstack developer from Anywhere in the world, currently located in Turkey 🇹🇷</h3>
 
-- 🔭 I’m currently working at [Tickeron](tickeron.com)
+- 🔭 I’m currently working at [Tickeron](https://tickeron.com)
 
 - 💬 Ask me about **.net, js, k8s, docker, linux, home automation**
 
